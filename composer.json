@@ -1,0 +1,27 @@
+{
+    "name": "JamieCressey/php-restful-client",
+    "type": "library",
+    "description": "Generic RESTful API Client",
+    "keywords": ["api", "authentication"],
+    "homepage": "https://github.com/JamieCressey/php-restful-client",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">= 4.8"
+    },
+    "authors": [
+        {
+            "name": "Jamie Cressey",
+            "email": "jamiecressey89@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "RestfulClient": "lib"
+        }
+    }
+}
+
