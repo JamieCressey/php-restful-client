@@ -1,5 +1,5 @@
 {
-    "name": "JamieCressey/php-restful-client",
+    "name": "jamiecressey/restful-client",
     "type": "library",
     "description": "Generic RESTful API Client",
     "keywords": ["api", "authentication"],
