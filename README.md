@@ -1,4 +1,7 @@
 [![Build Status](https://img.shields.io/travis/JamieCressey/php-restful-client.svg)](https://travis-ci.org/JamieCressey/php-restful-client)
+[![Package Version](https://img.shields.io/packagist/v/jamiecressey/restful-client.svg)](https://packagist.org/packages/jamiecressey/restful-client)
+[![Package Downloads](https://img.shields.io/packagist/dm/jamiecressey/restful-client.svg)](https://packagist.org/packages/jamiecressey/restful-client)
+[![Package License](https://img.shields.io/github/license/jamiecressey/php-restful-client.svg)]
 
 # Generic RESTful PHP client
 
